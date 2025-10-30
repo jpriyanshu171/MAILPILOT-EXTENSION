@@ -46,7 +46,7 @@ It helps users save time by suggesting professional, casual, or friendly respons
 
 ## 🎬 Demo
 
-🚀 Coming soon: GIF walkthrough of the extension in action!  
+🔗 [View Repository on GitHub](https://github.com/jpriyanshu171/MAILPILOT-EXTENSION)
 
 ---
 
